@@ -1,5 +1,5 @@
 # SampleOperations
-i.   This projects consists of runnable classes where each class is independent of each other and provides/serves different functionality.
+i.   This projects consists of different runnable classes where each class is independent of each other and provides/serves different functionality.
 ii.  For every runnable class, referenced packages are listed.
 iii. SampleOperations project is developed on newly created model by name Sample in the user layer.
 iv.  SampleOperations project consists of following artifacts
