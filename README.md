@@ -12,3 +12,4 @@ v.   SampleOperations project is provided in the form project package file(.axpp
      Refer below link to know about import process:
      (Projects - Check for Import an .axpp file)
      https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/dev-tools/projects
+vi.  Before executing, we need to select the required runnable class right click and choose the option "Set as Startup Object".
